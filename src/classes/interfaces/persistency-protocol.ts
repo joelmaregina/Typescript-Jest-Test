@@ -1,3 +1,3 @@
-export interface PersistancyProtocol {
+export interface PersistencyProtocol {
   saveOrder(): void;
 }
